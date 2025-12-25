@@ -1,5 +1,7 @@
 package programmers;
 
 public class pg1 {
-    ddd
+    public static void main(String[] args) {
+        System.out.println("hello");
+    }
 }
